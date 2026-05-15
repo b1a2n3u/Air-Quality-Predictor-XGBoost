@@ -1,14 +1,14 @@
 # Air-Quality-Predictor-XGBoost
 A professional Machine Learning dashboard that predicts Air Quality Index (AQI) using live API data and advanced regression.
 
-Key Features 
+# Key Features 
 XGBoost Model: High-performance prediction of AQI levels using machine learning.
 Live Data: Integrated with API for real-time air monitoring.
 Interactive UI: A user-friendly dashboard built with Streamlit for data visualization.
 Health Insights: Automated health recommendations based on pollutant levels.
 AirBot: An integrated conversational AI assistant for instant air safety guidance.
 
-Tech Stack 
+# Tech Stack 
 Python: The core language used for overall development and backend logic.  
 Streamlit: The framework used to build the interactive web interface and live dashboard.  
 XGBoost: The primary machine learning engine used for high-accuracy AQI trend forecasting.  
