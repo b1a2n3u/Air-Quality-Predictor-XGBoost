@@ -25,4 +25,4 @@ Pandas & NumPy: Libraries employed for data management, analysis, and cleaning.
 
 Matplotlib & Seaborn: Tools used to generate data visualizations and trend charts.  
 
-Pickle: A utility for model serialization, allowing the trained ML model to be saved and loaded efficiently.
+Pickle: A utility for model serialization, allowing the trained ML model to be saved and load efficiently.
