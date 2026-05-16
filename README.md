@@ -4,7 +4,7 @@ A professional Machine Learning dashboard that predicts Air Quality Index (AQI) 
 ## Key Features 
 **XGBoost Model:** High-performance prediction of AQI levels using machine learning.
 
-**Live Data:** Integrated with API for real-time air monitoring.
+*Live Data: Integrated with API for real-time air monitoring.
 
 **Interactive UI:** A user-friendly dashboard built with Streamlit for data visualization.
 
